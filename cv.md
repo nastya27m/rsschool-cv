@@ -9,7 +9,7 @@
 
 ## Skills
 
-## Working experience
+## Work experience
 
 ## Education
 
