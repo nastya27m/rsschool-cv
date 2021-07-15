@@ -6,10 +6,14 @@
 
 ## About me
 
-
+I lead an active lifestyle, I have a conscientious attitude to the fulfillment of assigned tasks, I can easily find contact with people and work in a team, as well as achieve my goals, learn new information easily and quickly. In my spare time I am fond of reading professional and fiction literature, studying English.
+My goal is simple and obvious: find the job that will be fully give pleasure of working process.
 ## Skills
 
-## Working experience
+  * Computer skills: A good level of knowledge of MS Windows, MS Office (Excel, Word, Power-point), knowledge of the blind method of entering text on the keyboard. 
+  * Special programs: SAP.
+  * Basic skills: Figma, Adobe Photoshop.
+## Work experience
 
   * July 2017-July 2019: **TSUM Minsk**, seller of the 6th category.
     Main job responsibilities: acceptance and pre-sale preparation of goods, display of goods, advising buyers in the sales area, customer service at the checkout, maintaining cash records, ensuring cleanliness and order in the section.
