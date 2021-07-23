@@ -1,3 +1,65 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+    border: 4px solid;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.photo  {
+    border-radius: 100px;
+    width: 30%;
+    height: auto;
+}
+
+.info {
+    position: relative;
+    float: left;
+    padding-left: 250px;
+    padding-top: 20px;
+    margin: 0 0 10% 0;
+}
+
+.photo {
+    position:absolute;
+    top: 20px;
+    left:0px;
+}
+
+#CV {
+    text-align: center;
+    margin-bottom: 5%;
+    background: lightblue;
+    padding: 10px 0;
+}
+
+.title {
+    float: left;
+    width: 250px;
+    background: rgb(223, 223, 245);
+    padding-left: 20px;
+}
+
+
+.description {
+    float: right; 
+    padding:0 5% 0 15%;
+    width: 60%;
+}
+
 footer {
-    background-color: rgb(31, 6, 41);
+    display: flex;
+    background-color: lightblue;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.year {
+    font-size: 20px;
+    font-weight: 500;
 }
